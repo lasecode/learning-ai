@@ -90,6 +90,6 @@ A 38-project journey from fundamentals to a full-stack AI capstone — covering 
 
 ## About
 
-Building this roadmap project-by-project to go from core programming fundamentals to applied AI/ML and full-stack product development. Each folder contains its own README with details, setup instructions, and what I learned.
+Building this roadmap project-by-project to go from core programming fundamentals to applied AI/ML and full-stack product development.
 
 **Olufemi Toluwalase** · Bowen University
